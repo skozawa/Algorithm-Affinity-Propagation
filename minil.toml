@@ -1,0 +1,4 @@
+name = "Algorithm-Affinity-Propagation"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
